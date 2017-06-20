@@ -19,3 +19,9 @@ zip_read — Read next entry in a ZIP file archive
 
 for more  
 http://se.php.net/manual/en/book.zip.php  
+
+
+
+## Notes :: 
+1 We can use this process for downloading multiple files from serverlocation by using php and apache. 
+2  HTTP doesn't provide a mechanism for sending multiple files over one request.
